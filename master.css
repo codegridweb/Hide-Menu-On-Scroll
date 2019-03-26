@@ -1,0 +1,39 @@
+body {
+      margin: 0;
+      background: #fff;
+      font-family: Poppins;
+}
+
+#navbar {
+      background: lightseagreen;
+      position: fixed;
+      top: 0;
+      width: 100%;
+      display: block;
+      transition: top 0.8s;
+}
+
+#navbar a {
+      float: left;
+      display: block;
+      color: #fff;
+      font-weight: 300;
+      text-decoration: none;
+      margin: 2em 3em;
+      font-size: 16px;
+}
+
+h1 {
+      font-weight: 300;
+}
+
+.content {
+      margin: 8em 4em;
+      text-align: justify;
+}
+
+p {
+      color: grey;
+      font-weight: 300;
+      line-height: 30px;
+}
